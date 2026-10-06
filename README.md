@@ -118,6 +118,6 @@ sudo tail -f /var/log/apache2/error.log
 - Le site Apache par défaut (`000-default.conf`) prenait la priorité sur la config WebDAV
 - La virtualisation imbriquée (VM dans VM) n'est pas supportée sur tous les processeurs
 
-## Auteurs
+## Auteur
 
-Matthieu, Farouk, Anna — La Plateforme\_, Mars 2026
+Farouk, La Plateforme_
